@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Buddy Assignment Network Tool Repository (BANTR)
-description: A python program to assist in the process of matching older and younger buddies for the Gibson Ek Buddy Program.
+description: Creating a python program to assist in the process of matching incoming freshman and upper classmen for the Gibson Ek Buddy Program.
+# alternative description: Creating a python program to assist in the process of matching incoming freshman and upper classmen based on their interests for the Gibson Ek Buddy Program.
