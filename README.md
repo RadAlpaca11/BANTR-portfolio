@@ -1,11 +1,5 @@
 # Buddy Assignment Network Tool Repository (BANTR)
 
-Does this show up on the website?
+This is just a README
 
-1. one
-2. two
-3. three
-
-- o
-- oo
-- ooo
+To edit site you have to edit the index.md file
