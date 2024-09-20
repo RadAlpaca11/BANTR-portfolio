@@ -1,8 +1,5 @@
 # Final code:
 
-> [!IMPORTANT]
-> This is the code that was run.
-
 ```python
 import pandas as pd
 import csv
