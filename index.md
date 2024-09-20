@@ -95,8 +95,7 @@ for indexYounger, person in youngerBuddyData.iterrows():
         if(matchScoreTotalPercent < 10):
             matchScoreTotalPercent = str(matchScoreTotalPercent)
             matchScoreTotalPercent = "0" + matchScoreTotalPercent
-        # Output the results
-        #print(f"Match words for {personName} and {potentialBuddyName}: {str(matchTokens)}, {matchScoreTotal}")
+
         # Store result to streamline writing csv
         matchResult = [personName, potentialBuddyName, matchScoreTotalPercent, matchTokens, personPrepared, potentialBuddyConfident, personExcited, potentialBuddyExcited]
 
