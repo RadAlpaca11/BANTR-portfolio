@@ -14,9 +14,7 @@ youngerBuddyData = pd.read_csv('inputCSVs/Advisor1-Advisor2-cohort-younger.csv')
 # Initialize the csv, *it will write over the csv*
 with open('Advisor1-Advisor2-results-unsorted.csv', 'w', newline='') as file:
     writerHeader = writer(file)
-    # Writing the headers
-    #writerHeader.writerow(['Younger buddy', 'Older buddy', 'Match score', 'Match phrases', 'Younger buddy prepared?', 'Older buddy confident?', 'Younger buddy excited?', 'Older buddy excited?'])
-
+    
 
 # Going through to test every possible combination of buddies
 for indexYounger, person in youngerBuddyData.iterrows():
