@@ -220,7 +220,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:static;
+    position:absolute;
     width:auto;
   }
 
@@ -256,7 +256,7 @@ footer {
   }
 
   header ul, header p.view {
-    position:absolute;
+    position:relative;
   }
 
   pre, code {
