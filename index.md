@@ -1,6 +1,6 @@
 # Buddy Assignment Network Tool Repository (BANTR)
 ## Description
-Creating a python program to assist in the process of matching incoming freshmen and upper classmen for the Gibson Ek High School Buddy Program.
+Creating a python program to assist in the process of matching incoming freshmen and upper classmen for the Gibson Ek High School Buddy Program. (Final code included below.)
 
 ## The story of BANTR
 The Gibson Ek High School Buddy Program was started by a student to pair freshmen with an older buddy to help them adjust to the new school. This student manually created every single pair of buddies based on a survey of their interests to make compatible matches. I saw this and thought, "I could program something to make this process so much easier!" 
