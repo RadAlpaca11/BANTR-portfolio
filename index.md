@@ -15,11 +15,8 @@ BANTR then outputs a .csv file that is a table of all buddy combinations, sorted
 This output file is then used by whoever is matching buddies to optimize the matching process.
 **In its first year, using BANTR reduced the buddy matching process from x hours to less than 1 hour!**
 
-## Sample student survey
+## Sample files
 
-## Sample input file
-
-## Sample output file
 
 ## Final code
 
