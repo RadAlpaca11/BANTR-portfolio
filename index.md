@@ -10,6 +10,9 @@ BANTR works by taking input .csv files from surveys of the people's interests, a
 The output .csv file is a table of all of the possible buddy combinations for each younger buddy, sorted by compatibility percentage.
 This output file is used by whoever is matching the buddies, as a reference for them to make good buddy matches.
 
+## Sample input
+
+## Sample output
 
 ## Final code
 

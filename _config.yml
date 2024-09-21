@@ -4,6 +4,8 @@ title: Table of Contents
 descriptionTitle: Description
 storyTitle: The story of BANTR
 howItWorksTitle: How it works
+sampleInputTitle: Sample input
+sampleOutputTitle: Sample output
 finalCodeTitle: Final Code
 # alternative description: Creating a python program to assist in the process of matching incoming freshman and upper classmen based on their interests for the Gibson Ek Buddy Program.
 livereload: True
