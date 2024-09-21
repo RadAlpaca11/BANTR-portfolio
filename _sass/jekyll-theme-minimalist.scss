@@ -121,7 +121,7 @@ kbd {
 
 
 .sidebar {
-  width:30%;
+  width:auto;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -214,7 +214,7 @@ strong {
 }
 
 section {
-  width:70%;
+  width:620px;
   float:right;
   padding-bottom:30px;
 }
@@ -232,7 +232,7 @@ hr {
 }
 
 footer, .sidebar-footer {
-  width:30%;
+  width:auto;
   float:left;
 //   position:static;
   bottom:30px;
