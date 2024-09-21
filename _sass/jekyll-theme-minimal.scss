@@ -1,5 +1,5 @@
 @import "fonts";
-@import "rouge-github";
+@import "pygments-github";
 
 body {
   background-color: #fff;
@@ -58,7 +58,6 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  position:relative;
 }
 
 blockquote {
