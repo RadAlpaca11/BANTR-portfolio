@@ -9,9 +9,10 @@ The Gibson Ek High School Buddy Program was started by a student to pair freshme
 How might I make a computer program to match up older and younger buddies based on interests from survey responses for the Gibson Ek Buddy program?
 
 ## How it works
-BANTR works by taking input .csv files from surveys of the people's interests, and outputs a .csv file that is sorted.
-The output .csv file is a table of all of the possible buddy combinations for each younger buddy, sorted by compatibility percentage.
-This output file is used by whoever is matching the buddies, as a reference for them to make good buddy matches.
+BANTR, which I wrote in python, starts by taking input .csv files from surveys of people's interests. 
+BANTR then analyzes the survey responses and scores all of the possible buddy combinations by matching interests.
+BANTR then outputs a .csv file that is a table of all buddy combinations, sorted by compatibility score.
+This output file is then used by whoever is matching buddies, as a reference for them to optimize matching.
 
 ## Sample input
 
