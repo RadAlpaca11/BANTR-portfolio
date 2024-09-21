@@ -2,16 +2,16 @@
 ## Description
 Creating a python program to assist in the process of matching incoming freshmen and upper classmen for the Gibson Ek Buddy Program.
 
-## The story of BANTR:
+## The story of BANTR
 The Gibson Ek Buddy Program is a program that was started by a student, to pair freshmen with an older buddy to help them adjust to the new school. This student individually paired up every single pair of buddies based on a survey of their interests, to make compatible matches. I saw this and thought, "I could program something to make this process so much easier!" 
 
-## How it works:
+## How it works
 BANTR works by taking input .csv files from surveys of the people's interests, and outputs a .csv file that is sorted.
 The output .csv file is a table of all of the possible buddy combinations for each younger buddy, sorted by compatibility percentage.
 This output file is used by whoever is matching the buddies, as a reference for them to make good buddy matches.
 
 
-## Final code:
+## Final code
 
 ```python
 import pandas as pd
