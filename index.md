@@ -14,9 +14,11 @@ BANTR then analyzes the survey responses and scores all of the possible buddy co
 BANTR then outputs a .csv file that is a table of all buddy combinations, sorted by compatibility score.
 This output file is then used by whoever is matching buddies, as a way for them to optimize the matching process.
 
-## Sample input
+## Sample student survey
 
-## Sample output
+## Sample input file
+
+## Sample output file
 
 ## Final code
 
