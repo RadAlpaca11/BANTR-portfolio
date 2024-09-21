@@ -12,7 +12,7 @@ How might I make a computer program to match up older and younger buddies based 
 BANTR, which I wrote in python, starts by taking input .csv files from surveys of students' interests. 
 BANTR then analyzes the survey responses and scores all of the possible buddy combinations by matching interests.
 BANTR then outputs a .csv file that is a table of all buddy combinations, sorted by compatibility score.
-This output file is then used by whoever is matching buddies, as a reference for them to optimize matching.
+This output file is then used by whoever is matching buddies, as a way for them to optimize the matching process.
 
 ## Sample input
 
