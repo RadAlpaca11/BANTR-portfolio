@@ -8,6 +8,8 @@ defineTitle: >
 howItWorksTitle: How it works
 sampleFilesTitle: Sample files
 finalCodeTitle: Final code
+projectBy: Project by Hayden Hirsch
+projectSchool: Gibson Ek High School
 # alternative description: Creating a python program to assist in the process of matching incoming freshman and upper classmen based on their interests for the Gibson Ek Buddy Program.
 livereload: True
 
