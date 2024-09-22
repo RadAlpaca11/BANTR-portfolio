@@ -18,9 +18,9 @@ This output file is then used by whoever is matching buddies to optimize the mat
 ## Sample files
 [Sample_Survey](https://forms.gle/PDCTxnFZWYyGgCtaA)
 
-[Sample_Input_File](file:///Users/mayahirsch/Downloads/2024%20test/FakeYoungerTest2024_1.html)
+[Sample_Input_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=800938054&single=true)
 
-[Sample_Output_File](file:///Users/mayahirsch/Downloads/2024%20test/Test1.html)
+[Sample_Output_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=1806703516&single=true)
 
 ## Final code
 
