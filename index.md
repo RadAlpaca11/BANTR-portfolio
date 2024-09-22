@@ -15,12 +15,14 @@ BANTR then outputs a .csv file that is a table of all buddy combinations, sorted
 This output file is then used by whoever is matching buddies to optimize the matching process.
 **In its first year, using BANTR reduced the buddy matching process from x hours to less than 1 hour!**
 
+
+
 ## Sample files
-[Sample_Survey](https://forms.gle/PDCTxnFZWYyGgCtaA)
+[Sample_Survey](https://forms.gle/PDCTxnFZWYyGgCtaA/){:target="_blank"}
 
-[Sample_Input_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=800938054&single=true)
+[Sample_Input_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=800938054&single=true){:target="_blank"}
 
-[Sample_Output_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=1806703516&single=true)
+[Sample_Output_File](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKiHPsY1B29MJfh39ZRAlNNOa_ZEvPhrSJJjk70CULwtjP9w7EILjTwRLz4VYonwL_Wdf-6dGqH_5w/pubhtml?gid=1806703516&single=true){:target="_blank"}
 
 ## Final code
 
