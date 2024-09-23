@@ -13,7 +13,7 @@ BANTR, which I wrote in python, starts by taking input .csv files from surveys o
 BANTR then analyzes the survey responses and scores all of the possible buddy combinations by matching interests.
 BANTR then outputs a .csv file that is a table of all buddy combinations, sorted by compatibility score.
 This output file is then used by whoever is matching buddies to optimize the matching process.
-**In its first year, using BANTR reduced the buddy matching process from x hours to less than 1 hour!**
+**In its first year, using BANTR reduced the buddy matching process from 20 hours to less than 1 hour!**
 
 
 
